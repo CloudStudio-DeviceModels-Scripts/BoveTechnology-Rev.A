@@ -27,6 +27,8 @@ These functions enable extended integration capabilities in Cloud Studio, suppor
 - [Cloud Studio DeviceModel Scripts Repository](https://github.com/CloudStudio-DeviceModels-Scripts)
 - [Cristian M. Zangaro](https://github.com/DarkSylver)
 
+<sub>Note: This script was extracted from a client environment. It may have been designed for specific cases and might not cover all the functionalities of the model. In some cases, the script could be incomplete.</sub>
+
 ---
 
 # Script de Parsing + Configuration – Bove Technology Rev. A
@@ -56,3 +58,5 @@ Estas funciones permiten capacidades de integración extendidas en Cloud Studio,
 - [Repositorio oficial de Cloud Studio](https://github.com/CloudStudioIoT)
 - [Repositorio de scripts de modelos de dispositivos de Cloud Studio](https://github.com/CloudStudio-DeviceModels-Scripts)
 - [Cristian M. Zangaro](https://github.com/DarkSylver)
+
+<sub>Nota: Este script fue extraído de un entorno de cliente. Es posible que haya sido diseñado para casos específicos y no para cubrir todas las funcionalidades del modelo. En algunos casos, el script podría estar incompleto.</sub>
